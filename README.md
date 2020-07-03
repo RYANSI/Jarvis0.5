@@ -1,3 +1,3 @@
-# navivoice
-A chrome extension which allows for voice-operated web navigation.
-http://www.getnavivoice.com
+# Jarvis
+A  extension which allows for voice-operated web navigation.
+Jarvis
